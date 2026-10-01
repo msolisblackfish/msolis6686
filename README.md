@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 👋 I'm @msolis6686
 - 🔭 I am currently working as a Project Manager with Odoo
 - 🌱 I'm currently learning .NET
-- 📫 How to contact me: mario@blackfish.com.ar
+- 📫 How to contact me: mariorodrigosolis@outlook.com
